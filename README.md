@@ -46,7 +46,7 @@ You may alter the project anyway you want. I recommend you alter the ```question
 
 ## Author
 
-* **Ray Garcia** - *Everything* - [PurpleBooth](https://github.com/RayGar)
+* **Ray Garcia** - *Everything* - [RayGar](https://github.com/RayGar)
 
 ## License
 
